@@ -1,4 +1,4 @@
-# stock-price-growth-prediction
+# Stock-price-growth-prediction
 Welcome to the Stock Price Prediction Model repository! This project focuses on developing a machine learning model to predict stock prices using historical data. This README will provide an overview of the project, how to set up and run the model, and other important information.
 
 Table of Contents
@@ -56,5 +56,6 @@ Happy predicting! If you have any questions or suggestions, feel free to contact
 
 
 
+![candle-volume](https://github.com/sparshshrivastava75/stock-price-growth-prediction/assets/43951895/a7aea26a-546a-4ddb-8e78-fad8adebd3db)
 
 
